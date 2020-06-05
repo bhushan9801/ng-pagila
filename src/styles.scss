@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bulma/bulma';
+@import '~font-awesome/scss/font-awesome';
+
+.site-base {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.full-width-body {
+  flex: 1;
+}
